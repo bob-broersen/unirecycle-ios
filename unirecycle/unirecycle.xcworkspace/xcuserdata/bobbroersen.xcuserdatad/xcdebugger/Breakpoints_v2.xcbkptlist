@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1E506D7C-813E-47B3-9A2A-7EBA1709F600"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "784DB432-2EFF-477B-9C4B-994ED3BEE736"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "unirecycle/Home/HomeViewController1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "setUpViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5973929C-1166-4FC9-921E-132EAE63DCB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "unirecycle/Home/HomeViewController1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "latestChallengeView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5973929C-1166-4FC9-921E-132EAE63DCB4 - 9deb7c1db3decef7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; unirecycle.ActiveChallenge in variable initialization expression of unirecycle.HomeViewController1.latestChallengeView : unirecycle.ActiveChallenge"
+                  moduleName = "unirecycle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobbroersen/Documents/Documenten%20-%20MacBook%20Pro%20van%20Bob/jaar%203/semester%202/unirecycle/unirecycle/unirecycle/Home/HomeViewController1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "990">
+               </Location>
+               <Location
+                  uuid = "5973929C-1166-4FC9-921E-132EAE63DCB4 - 9deb7c1db3decef7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; unirecycle.ActiveChallenge in variable initialization expression of unirecycle.HomeViewController1.latestChallengeView : unirecycle.ActiveChallenge"
+                  moduleName = "unirecycle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobbroersen/Documents/Documenten%20-%20MacBook%20Pro%20van%20Bob/jaar%203/semester%202/unirecycle/unirecycle/unirecycle/Home/HomeViewController1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1108">
+               </Location>
+               <Location
+                  uuid = "5973929C-1166-4FC9-921E-132EAE63DCB4 - bb8a1a3163871501"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (unirecycle.ActiveChallengeModel, unirecycle.ActiveChallengeModel) -&gt; unirecycle.ActiveChallengeModel in closure #1 () -&gt; unirecycle.ActiveChallenge in variable initialization expression of unirecycle.HomeViewController1.latestChallengeView : unirecycle.ActiveChallenge"
+                  moduleName = "unirecycle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobbroersen/Documents/Documenten%20-%20MacBook%20Pro%20van%20Bob/jaar%203/semester%202/unirecycle/unirecycle/unirecycle/Home/HomeViewController1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B162671-3B7B-49EB-B1F2-9731A75918C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "unirecycle/Intro/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "signIn()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3E70B36-0512-4A82-8871-58F46AE35842"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "unirecycle/Home/HomeViewController1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "latestChallengeView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF029C66-2095-4BAC-B63E-0FFE5A11A776"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "unirecycle/Challenges/ChallengeStart/ChallengeStartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "challenge"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
